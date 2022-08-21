@@ -5,7 +5,7 @@ let txtnumber = document.getElementById("number");
 function soma(){
     NI += 1;
 
-    txtnumber.innerHTML = NI;
+    txtnumber.innerHTML = NI; 
 }
 
 function subtracao(){
